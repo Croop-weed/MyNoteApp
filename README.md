@@ -1,9 +1,3 @@
-This code provides a solid foundation for a **Flask-based Note-Taking Web Application**. It features a modular structure using Blueprints, secure user authentication, and a relational database managed by SQLAlchemy.
-
-To help others (and your future self) understand and run this project, here is a structured **README.md** tailored to your specific code.
-
----
-
 # 📝 Flask Note-Taking Application
 
 A simple, secure web application that allows users to sign up, log in, and manage personal notes. This project demonstrates the implementation of **MVC (Model-View-Controller)** architecture using Python and Flask.
@@ -97,4 +91,3 @@ The application uses a **One-to-Many** relationship: One user can have many note
 
 ---
 
-Would you like me to generate a `requirements.txt` file or the HTML templates to match this backend logic?
